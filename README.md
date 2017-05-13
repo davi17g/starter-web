@@ -20,6 +20,9 @@ can be on any web server or even local file system.
 
 ## How to Contribute
 
+Please fork this repository and then issue Pull Request for
+review.
+
 ### Copyright 
 
 2017 Git.Training 
